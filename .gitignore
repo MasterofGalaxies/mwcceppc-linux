@@ -1,0 +1,7 @@
+*.o
+*.bin
+*.exe
+rsrc-string-table.c
+mwcceppc-labeled.s
+mwcceppc-sections.ld
+mwcceppc
